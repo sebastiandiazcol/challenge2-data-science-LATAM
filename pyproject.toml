@@ -1,0 +1,11 @@
+[project]
+name = "challenge2-data-science-latam-main"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "nbformat>=5.10.4",
+    "pandas>=3.0.1",
+    "seaborn>=0.13.2",
+]
